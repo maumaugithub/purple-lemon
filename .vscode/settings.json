@@ -1,0 +1,23 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./test",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.unittestEnabled": true,
+    "python.analysis.extraPaths": [
+        "./src"
+    ],
+    "python.analysis.enablePytestSupport": false,
+    "cSpell.words": [
+        "figsize",
+        "imshow",
+        "stopwords",
+        "wordcloud"
+    ],
+    "AREPL.pythonOptions": [  
+        "-u"
+    ]
+}

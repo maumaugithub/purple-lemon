@@ -1,0 +1,26 @@
+# purple-lemon mini gitignore
+debug.log
+build
+__pycache__
+*.egg-info/
+.tox
+dist
+lib
+*.key
+venv
+# IntelliJ
+.idea
+.idea/modules.xml
+.idea/*.iml
+.idea/modules
+*.iml
+# Gradle
+.gradle
+.coverage
+requirements.txt
+.DS_Store
+.pytest_cache
+.vscode
+.env
+.venv
+test/__pycache__
