@@ -24,3 +24,5 @@ requirements.txt
 .env
 .venv
 test/__pycache__
+/.vscode
+.vscode/settings.json
